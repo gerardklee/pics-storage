@@ -10,7 +10,7 @@ class App extends React.Component {
         this.length = 1;
         this.width = 1;
         this.height = 1;
-        this.cameraPosition = 5;
+        this.cameraPosition = 5.5;
     }
 
     componentDidMount() {
